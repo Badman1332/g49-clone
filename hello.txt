@@ -1,3 +1,3 @@
 Hello, Git!
 Test line is added
-Mello from mike.
+hello from mike.
